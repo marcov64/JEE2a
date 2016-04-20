@@ -1,0 +1,3 @@
+Expenditures not received because of backlogs are stored in the bank, which can used them lend more money.
+
+
